@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Glasgow",
+  "base_artist": "ユー・ミー・アット・シックス",
+  "createdAt": "2026-02-19T07:04:02.957167Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Am the Walrus (Live At Glasgow Cathouse June '94)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_I_Am_the_Walrus_(Live_At_Glasgow_Cathouse_June_'94)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Supersonic - Live At Glasgow Tramshed",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Supersonic_-_Live_At_Glasgow_Tramshed_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Supersonic (Live at Glasgow Tramshed)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Supersonic_(Live_at_Glasgow_Tramshed)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Driftwood (live at the Link Café, Glasgow)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/04_Driftwood_(live_at_the_Link_Café,_Glasgow)_Travis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Am the Walrus (Live Glasgow Cathouse June '94)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_I_Am_the_Walrus_(Live_Glasgow_Cathouse_June_'94)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Losing More Than I'll Ever Have - Live from the Glasgow Barrowlands",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/06_I'm_Losing_More_Than_I'll_Ever_Have_-_Live_from_the_Glasgow_Barrowlands_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Pair Of Brown Eyes - Live At Glasgow Barrowlands",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/07_A_Pair_Of_Brown_Eyes_-_Live_At_Glasgow_Barrowlands_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kitty - Live At Glasgow Barrowlands",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/08_Kitty_-_Live_At_Glasgow_Barrowlands_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Maggie May - Live At Glasgow Barrowlands",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/09_Maggie_May_-_Live_At_Glasgow_Barrowlands_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Delete Yourself! You Got No Chance to Win! (Live in Glasgow 17.10.1993)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/10_Delete_Yourself!_You_Got_No_Chance_to_Win!_(Live_in_Glasgow_17.10.1993)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The End Starts Today (Tommie Sunshine's \"Nail Me Down\" Glasgow Summer Freestyle Mix)",
+      "artist": "Bis",
+      "has_synced": true,
+      "path": "select/11_The_End_Starts_Today_(Tommie_Sunshine's__Nail_Me_Down__Glasgow_Summer_Freestyle__Bis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The End Starts Today (Glasgow Summer Freestyle Mix)",
+      "artist": "bis",
+      "has_synced": true,
+      "path": "select/12_The_End_Starts_Today_(Glasgow_Summer_Freestyle_Mix)_bis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All in One Day - Live at Glasgow Barrowlands, 1 November 1986",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/13_All_in_One_Day_-_Live_at_Glasgow_Barrowlands,_1_November_1986_Ultravox.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Same Old Story - Live at Glasgow Barrowlands, 1 November 1986",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/14_Same_Old_Story_-_Live_at_Glasgow_Barrowlands,_1_November_1986_Ultravox.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Surrender - Live at Glasgow Barrowlands, 1 November 1986",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/15_Sweet_Surrender_-_Live_at_Glasgow_Barrowlands,_1_November_1986_Ultravox.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Time to Kill - Live at Glasgow Barrowlands, 1 November 1986",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/16_Time_to_Kill_-_Live_at_Glasgow_Barrowlands,_1_November_1986_Ultravox.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glasgow",
+      "artist": "You Me At Six",
+      "has_synced": false,
+      "path": "select/pl_01_Glasgow_You_Me_At_Six.txt"
+    }
+  ]
+}
